@@ -1,0 +1,11 @@
+{
+  "extends": ["react-app", "plugin:prettier/recommended"],
+  "rules": {
+    "react/jsx-filename-extension": ["warn", { "extensions": [".js", ".jsx"] }],
+    "react/prop-types": "off",
+    "react/button-has-type": "off",
+    "no-nested-ternary": "off",
+    "react/no-array-index-key": "off",
+    "prettier/prettier": ["warn", { "endOfLine": "auto" }]
+  }
+}

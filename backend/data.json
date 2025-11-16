@@ -1,0 +1,32 @@
+{
+  "sessions": [
+    {
+      "id": "session-1",
+      "title": "project planning",
+      "createdAt": "2025-11-16T20:03:40.024Z"
+    },
+    {
+      "id": "session-2",
+      "title": "API design notes",
+      "createdAt": "2025-11-16T20:03:40.025Z"
+    }
+  ],
+  "conversations": {
+    "session-1": [
+      {
+        "id": "ca808719-b646-468c-a980-aa7319a5b3f6",
+        "sender": "bot",
+        "text": "Welcome! Ask me anything about project planning.",
+        "timestamp": "2025-11-16T20:03:40.026Z"
+      }
+    ],
+    "session-2": [
+      {
+        "id": "06cd83a7-0f68-4105-b7a6-ac111d758de2",
+        "sender": "bot",
+        "text": "API design ideas: REST vs GraphQL — ask a specific question.",
+        "timestamp": "2025-11-16T20:03:40.026Z"
+      }
+    ]
+  }
+}
